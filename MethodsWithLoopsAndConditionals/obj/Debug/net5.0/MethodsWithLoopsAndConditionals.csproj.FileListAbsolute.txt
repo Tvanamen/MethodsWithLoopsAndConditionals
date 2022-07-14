@@ -1,0 +1,16 @@
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\refint\MethodsWithLoopsAndConditionals.dll
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
+C:\Users\vanam\Documents\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\ref\MethodsWithLoopsAndConditionals.dll
